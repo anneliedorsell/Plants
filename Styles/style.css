@@ -36,17 +36,17 @@
     justify-content: center;   
 }
 
-.maininfo {
-        display: flex;
-        flex-direction: column;    
-        max-width: 60%;
-        max-height: 50vh;   
-        background-color: #778a35;
-        opacity: 0.9;
-        margin: 3rem;
-        padding: 3rem;
-        color: wheat;                        
-    }
+/* .maininfo {
+    display: flex;
+    flex-direction: column;    
+    max-width: 60%;
+    max-height: 50vh;   
+    background-color: #778a35;
+    opacity: 0.9;
+    margin: 3rem;
+    padding: 3rem;
+    color: wheat;                        
+} */
 
 .buttons {
     display: flex;
